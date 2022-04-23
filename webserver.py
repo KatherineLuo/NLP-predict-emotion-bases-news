@@ -43,6 +43,4 @@ To run this:
 2. go to another command line, type:
 curl -d "{ \"headline\": \"headline_content", \"summary\": \"summary_content\", \"worker_id\": 1 }" http://localhost:8080
 
-The entire project can be found:
-C:\Users\yluo\Downloads\homework.json.gz
 '''
